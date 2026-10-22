@@ -27,5 +27,5 @@
 
 ## Tự chấm (điền sau khi có đáp án)
 
-- **Điểm tự chấm:** ..../100
-- **Lỗi mình đã mắc và cách sửa:*Dấu $ dùng để cố định địa chỉ ô/vùng tra cứu.Nếu bỏ dấu $ và kéo công thức xuống bảng tra cứu sẽ bị trượt dòng theo tương ứng, hậu quả là vùng tìm kiếm bị lệch, bỏ sót dữ liệu và gây ra lỗi #N/A.*
+- **Điểm tự chấm:** 100/100
+- **Lỗi mình đã mắc và cách sửa:*Dấu $ dùng để cố định địa chỉ ô/vùng tra cứu.Nếu bỏ dấu $ và kéo công thức xuống bảng tra cứu sẽ bị trượt dòng theo tương ứng, hậu quả là vùng tìm kiếm bị lệch, bỏ sót dữ liệu và gây ra lỗi #N/A.**
