@@ -23,9 +23,9 @@
 > Công thức được chấm trực tiếp trên file `data/hoc_phi_thang_10.xlsx`.
 
 - **Số dòng còn hiển thị sau khi lọc (câu d):7**
-- **Câu e – Vì sao vùng tra cứu cần dấu $:**
+- **Câu e – Vì sao vùng tra cứu cần dấu $:Dấu $ dùng để cố định địa chỉ ô/vùng tra cứu.Nếu bỏ dấu $ và kéo công thức xuống bảng tra cứu sẽ bị trượt dòng theo tương ứng, hậu quả là vùng tìm kiếm bị lệch, bỏ sót dữ liệu và gây ra lỗi #N/A.**
 
 ## Tự chấm (điền sau khi có đáp án)
 
 - **Điểm tự chấm:** 100/100
-- **Lỗi mình đã mắc và cách sửa:*Dấu $ dùng để cố định địa chỉ ô/vùng tra cứu.Nếu bỏ dấu $ và kéo công thức xuống bảng tra cứu sẽ bị trượt dòng theo tương ứng, hậu quả là vùng tìm kiếm bị lệch, bỏ sót dữ liệu và gây ra lỗi #N/A.**
+- **Lỗi mình đã mắc và cách sửa:**
